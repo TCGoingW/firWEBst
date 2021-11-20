@@ -76,6 +76,11 @@
   }
 }
 
+picture{
+  max-width: 500;
+  max-height: 900;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
